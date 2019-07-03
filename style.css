@@ -1,0 +1,21 @@
+.calculator {
+    background-color: darkmagenta;
+    /* text-align: center; */
+    position: absolute;
+}
+.bcalculator{
+    position: relative;
+}
+.viewer {
+    text-align: right;
+    width: 200px;
+    height:50px;
+    font-size: 20px;
+}
+button{
+    background-color: darkmagenta;
+    height: 50px;
+    width: 50px;
+    border: 0;
+    font-size: 20px;
+}
